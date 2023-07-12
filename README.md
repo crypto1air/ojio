@@ -1,0 +1,2 @@
+# ojio
+Node testnet validator
